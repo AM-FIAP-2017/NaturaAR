@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="raycharles" size="1.000000 0.696000" />
+    <ImageTarget name="VuforiaTest3" size="1.000000 1.400000" />
+    <ImageTarget name="Pattern_02" size="1.000000 1.486618" />
+    <ImageTarget name="Pattern_01" size="1.000000 1.486618" />
+    <ImageTarget name="VuforiaTest1" size="1.000000 1.400000" />
+    <ImageTarget name="VuforiaTest2" size="1.000000 1.400000" />
+  </Tracking>
+</QCARConfig>
